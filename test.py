@@ -1,4 +1,3 @@
-for x in range(1):
-    for y in range(1):
-        print(y, end=' ')
-    print()
+rgb = [0, 0, 0]
+rgb [::2] = 250, 250
+
